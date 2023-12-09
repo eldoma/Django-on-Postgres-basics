@@ -9,7 +9,7 @@ open new Terminal:
 - pip install --upgrade distro-info
 - python.exe -m pip install --upgrade pip==23.2.1 --user
 - wget -O Downloads/lab1_template.zip " https://source/lab1_template.zip"
-The zip file will be in downloads
+The zip file will be in 'Downloads' folder before project
 - rm lab1_template.zip                                                  
 remove if necessary
 - cd lab1_template
