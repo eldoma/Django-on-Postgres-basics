@@ -1,9 +1,9 @@
 # Django-on-Postgres-basics
 
-# Runnable on VS Code:
+## Runnable on VS Code:
 - Install Postgres firstly if haven't done so.
 
-# on Vs Code 
+## on Vs Code 
 open new Terminal:
 - Go to Project folder
 - pip install --upgrade distro-info
@@ -35,7 +35,7 @@ Operations to perform:
 Running migrations:
   Applying orm.0001_initial... OK
 
-## Check run
+### Check run
 - python test.py
 
 the Terminal should be saying: 
