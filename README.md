@@ -40,5 +40,7 @@ Running migrations:
 
 the Terminal should be saying: 
 Django Model setup completed.
+![Deployment of Postgres](https://github.com/eldoma/Django-on-Postgres-basics/blob/main/success2.jpg)
 
 check on pgadmin 4 in tables
+![Deployment of Postgres](https://github.com/eldoma/Django-on-Postgres-basics/blob/main/success1.jpg)
