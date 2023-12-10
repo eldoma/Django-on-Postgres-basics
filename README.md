@@ -1,4 +1,5 @@
 # Django-on-Postgres-basics
+## Django Application Development with SQL and Databases, IBM
 
 ## Runnable on VS Code:
 - Install Postgres firstly if haven't done so.
@@ -12,8 +13,9 @@ open new Terminal:
 The zip file will be in 'Downloads' folder before project
 - rm lab1_template.zip                                                  
 remove if necessary
+
+## Go to specific project Folder & build Django environment
 - cd lab1_template
-Go to template
 - pip install virtualenv
 - python -m venv djangoenv
 - .\djangoenv\Scripts\activate
