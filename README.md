@@ -1,6 +1,6 @@
 # Django-on-Postgres-basics
 ## Django Application Development with SQL and Databases, IBM
-
+### Runnable either on IBM Cloud or in VS Code Standalone, database using Postgres (Cloud or local standalone)
 ## Runnable on VS Code:
 - Install Postgres firstly if haven't done so.
 
